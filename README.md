@@ -1,5 +1,8 @@
 # Wordpress using xampp
 
+![giphy](https://github.com/user-attachments/assets/5d7ca7e6-5c51-4619-ba0b-982834181fb2)
+
+
 WordPress is a popular open-source content management system (CMS) that allows users to create and manage websites with ease. It's widely used for blogging, e-commerce, business websites, portfolios, and more. Here are some key features and aspects of WordPress:
 
     User-Friendly Interface: WordPress offers a straightforward and intuitive interface, making it accessible even for beginners with no coding experience.
@@ -21,3 +24,6 @@ WordPress is a popular open-source content management system (CMS) that allows u
     Multimedia Management: WordPress makes it easy to manage and embed multimedia content like images, videos, and audio files.
 
     Multi-User Capability: WordPress supports multiple users with different roles and permissions, making it suitable for collaborative projects and larger organizations.
+
+
+![UC-fc0b16dd-b2db-4339-b927-0a0ec2d53ec4](https://github.com/user-attachments/assets/37cf9bcc-f88c-404e-a4e1-c062913bc4e9)
